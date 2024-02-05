@@ -1,5 +1,2 @@
 chanchito feliz
-<<<<<<< HEAD
-=======
 chanchito feliz
->>>>>>> ramab
